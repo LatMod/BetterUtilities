@@ -1,0 +1,17 @@
+[
+	{
+		"modid": "betterutilities",
+		"name": "Better Utilities",
+		"description": "",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "https://minecraft.curseforge.com/projects/better-utilities",
+		"updateUrl": "",
+		"authorList": ["LatvianModder"],
+		"credits": "",
+		"logoFile": "assets/betterutilities/textures/logo.png",
+		"screenshots": [],
+		"parent": "",
+		"dependencies": []
+	}
+]

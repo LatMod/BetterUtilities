@@ -1,1 +1,1 @@
-# BetterUtilities
+# Better Utilities [![](http://cf.way2muchnoise.eu/better-utilities.svg)](https://minecraft.curseforge.com/projects/better-utilities) [![](http://cf.way2muchnoise.eu/versions/better-utilities.svg)](https://minecraft.curseforge.com/projects/better-utilities)
