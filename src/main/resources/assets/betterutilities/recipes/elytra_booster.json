@@ -1,0 +1,16 @@
+{
+	"type": "forge:ore_shaped",
+	"group": "betterutilities:elytra_booster",
+	"result": {"item": "elytra_booster"},
+	"pattern": [
+		"RTR",
+		"RBR",
+		"RFR"
+	],
+	"key": {
+		"R": {"item": "minecraft:fireworks"},
+		"T": {"item": "minecraft:ghast_tear"},
+		"F": {"type": "forge:ore_dict", "ore": "feather"},
+		"B": {"type": "forge:ore_dict", "ore": "blockRedstone"}
+	}
+}

@@ -5,4 +5,5 @@ itemGroup.betterutilities=Better Utilities
 item.betterutilities.elytra_booster.name=Elytra Booster
 
 # Config
-betterutilities.general.something=Something
+betterutilities.general.elytra_booster_max=Elytra Booster Max
+betterutilities.general.elytra_booster_use=Elytra Booster Use

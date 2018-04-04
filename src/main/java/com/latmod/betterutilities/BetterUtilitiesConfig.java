@@ -20,10 +20,10 @@ public class BetterUtilitiesConfig
 	public static class General
 	{
 		@Config.Comment("Max FE of Elytra Booster")
-		public int elytra_booster_max = 64000;
+		public int elytra_booster_max = 6400;
 
 		@Config.Comment("FE used by one click of Elytra Booster")
-		public int elytra_booster_use = 1000;
+		public int elytra_booster_use = 100;
 	}
 
 	public static void sync()
