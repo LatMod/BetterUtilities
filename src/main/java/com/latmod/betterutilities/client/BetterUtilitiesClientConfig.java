@@ -1,6 +1,5 @@
 package com.latmod.betterutilities.client;
 
-import com.feed_the_beast.ftblib.lib.gui.GuiLang;
 import com.latmod.betterutilities.BetterUtilities;
 import net.minecraftforge.common.config.Config;
 import net.minecraftforge.common.config.ConfigManager;
@@ -16,7 +15,7 @@ import net.minecraftforge.fml.relauncher.Side;
 @Config(modid = BetterUtilities.MOD_ID + "_client", category = "", name = "../local/client/" + BetterUtilities.MOD_ID)
 public class BetterUtilitiesClientConfig
 {
-	@Config.LangKey(GuiLang.LANG_GENERAL)
+	@Config.LangKey("stat.generalButton")
 	public static final General general = new General();
 
 	public static class General

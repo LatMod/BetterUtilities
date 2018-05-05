@@ -1,6 +1,5 @@
 package com.latmod.betterutilities;
 
-import com.feed_the_beast.ftblib.FTBLib;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NBTTagInt;
@@ -18,7 +17,7 @@ import org.apache.logging.log4j.Logger;
 		name = BetterUtilities.MOD_NAME,
 		version = BetterUtilities.VERSION,
 		acceptedMinecraftVersions = "[1.12,)",
-		dependencies = "required-after:" + FTBLib.MOD_ID
+		dependencies = "required-after:ftblib"
 )
 public class BetterUtilities
 {
